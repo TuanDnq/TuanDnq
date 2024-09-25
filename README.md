@@ -1,42 +1,12 @@
-Hello, I'm Tuấn Đàm! 👋
+# 💫About Me :
+I'm a Cloud Systems (VMware) and Network engineer. Currently exploring topics in AI and machine learning.
 
-About Me
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=TuanDnq&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TuanDnq&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDnq&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a software engineer passionate about algorithms, data structures, data mining, and computer science. Always eager to learn, I'm currently exploring advanced topics in AI and machine learning.
-
-Interests
-
-📚 Algorithms and Data Structures
-💻 Computer Science
-📈 Data Mining
-🤖 Artificial Intelligence and Machine Learning
-
-Currently Learning
-
-🌱 Advanced AI techniques and their practical applications
-🚀 Cloud-native development and microservices architecture
-🔒 Cybersecurity best practices for modern applications
-
-Recent Projects
-
-💼 Process Breakdown: A comprehensive repository providing detailed, step-by-step guides on the development process of complex application systems, including blockchain technologies, AI/ML systems, IoT platforms, and more.
-🔬 Recommendation Systems: Research and implementation of advanced recommendation algorithms, exploring collaborative filtering, content-based filtering, and hybrid approaches to enhance user experience and engagement in e-commerce and content platforms.
-
-Collaboration
-
-💞️ I'm looking to collaborate on innovative projects in AI, data science, or cutting-edge web technologies. Let's create something impactful together!
-
-Contact Me
-
-📫 Reach me at:
-
-Gmail
-GitHub
-
-2024 Goals
-
-📊 Contribute to open-source AI projects
-📝 Write technical articles to share knowledge
-🎓 Obtain certifications in cloud computing and AI
-
-Let's connect and build the future of technology together!
+---
+[![](https://visitcount.itsvg.in/api?id=TuanDnq&icon=6&color=6)](https://visitcount.itsvg.in)
